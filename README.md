@@ -17,10 +17,10 @@ Understand APIs and how they work -- then get them to work
 3. I love carrots
 
 ## Important links & information
-[LinkedIn](https://www.linkedin.com/in/samanthaascher/)
-[Github](https://www.linkedin.com/in/samanthaascher/)
-[Resume](NickAnderson_Resume.pdf)
-[Portfolio website](http://www.samascher.com)
+[LinkedIn](https://www.linkedin.com/in/samanthaascher/)<br />
+[Github](https://www.linkedin.com/in/samanthaascher/)<br />
+[Resume](NickAnderson_Resume.pdf)<br />
+[Portfolio website](http://www.samascher.com)<br />
 
 ## Meetups I've attended:
 1. Denver Script (6/7)
