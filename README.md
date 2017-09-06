@@ -1,7 +1,7 @@
 # About Me
 
 ## Before GA:
-I was working for Service Source (client: Symantec (formerly Blue Coat) as a renewal sales representative.
+I was working for Service Source (client: Symantec (formerly Blue Coat) as a renewal sales representative. Before that, I worked selling cloud phone systems and disaster backup & recovery for a cloud data center. I went to CU Boulder and was a communication & health care major. I've been volunteering in some capacity with the Denver Hospice since 2011.
 
 ## Outcomes support I need:
 Salary negotiation. 
