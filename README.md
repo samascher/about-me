@@ -16,8 +16,11 @@ Understand APIs and how they work -- then get them to work
 2. I speak Hebrew
 3. I love carrots
 
-## My LinkedIn
-[Here!](https://www.linkedin.com/in/samanthaascher/)
+## Important links & information
+[LinkedIn](https://www.linkedin.com/in/samanthaascher/)
+[Github](https://www.linkedin.com/in/samanthaascher/)
+[Resume](NickAnderson_Resume.pdf)
+[Portfolio website](http://www.samascher.com)
 
 ## Meetups I've attended:
 1. Denver Script (6/7)
@@ -30,9 +33,3 @@ I'd love to do product work for a LARGE corporation/company. I want stability & 
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
 I would prefer a role primarly focused in the backend - ideally on the product side. I have a background in both direct/indirect sales and project management so I'd be happy in a client-facing role as well (I can literally talk to a brick wall for an hour).
-
-## Link to my resume: 
-[Here!](NickAnderson_Resume.pdf)
-
-## Link to my portfolio website: 
-[NickAnderson.rocks](http://www.samascher.com)
