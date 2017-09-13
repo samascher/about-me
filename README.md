@@ -19,7 +19,7 @@ Understand APIs and how they work -- then get them to work
 ## Important links & information
 [LinkedIn](https://www.linkedin.com/in/samanthaascher/)<br />
 [Github](https://github.com/samascher/)<br />
-[Resume](SamAscher_Resume.pdf)<br />
+[Resume](https://github.com/samascher/about-me/blob/master/Ascher_Resume.pdf)<br />
 [Portfolio website](http://www.samascher.com)<br />
 
 ## Meetups I've attended:
